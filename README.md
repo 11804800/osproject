@@ -1,2 +1,0 @@
-# osproject
-os project
